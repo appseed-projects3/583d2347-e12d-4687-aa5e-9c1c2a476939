@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "material-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "583d2347-e12d-4687-aa5e-9c1c2a476939",
+    "task_info": "Upload Sources [0%] - 369 files",
+    "task_output": "583d2347-e12d-4687-aa5e-9c1c2a476939.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-06-15-09-55-33",
+    "task_ts_start": "2023-06-15-09-55-30"
+}
